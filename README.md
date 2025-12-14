@@ -15,19 +15,17 @@ My goal is to contribute to a team that prioritizes proactive security measures 
 2. [Skills & Tools](#skills--tools)
 3. [Certifications](#certifications)
 4. [Projects](#projects)
-5. [Blogs & Articles](#blogs--articles)
-6. [Contact](#contact)
+5. [Contact](#contact)
 
 ---
 
 ## About Me
 
-I'm a [insert your job title] specializing in [specific cybersecurity area]. My career has been focused on securing networks, identifying vulnerabilities, and mitigating risks. With a background in [related education or experience], I’m constantly expanding my knowledge of emerging threats and new defense technologies. 
+I'm currently a salesperson Porsche Dallas. My goals are to start a career in the world of cybersecurity that is focused on securing networks, identifying vulnerabilities, and mitigating risks. I hope to transfer some of my existing skills to the world of cybersecurity such as problem solving, critical thinking, communication, and analytical skills. I’m constantly expanding my knowledge of new cybersecurity trends, emerging threats, and new defense technologies. I'm a very passionate learner who's always looking for ways to become better and expand my knowledge on
 
-- **Location**: [City, Country]
+- **Location**: Dallas, Texas
 - **LinkedIn**: [Link to your LinkedIn]
 - **GitHub**: [Link to your GitHub]
-- **Twitter**: [Link to your Twitter] (optional)
 
 ---
 
@@ -55,7 +53,6 @@ I have earned the following certifications that validate my knowledge and expert
 - **Certified Cloud Security Professional (CCSP)**
 - **CompTIA Security+**
 - **Certified Information Security Manager (CISM)**
-- [Add any other relevant certifications]
 
 ---
 
@@ -87,10 +84,9 @@ I have earned the following certifications that validate my knowledge and expert
 
 Feel free to reach out to me for any inquiries, collaboration opportunities, or consultations.
 
-- **Email**: [Your Email Address]
+- **Email**: Wsuhwail1@gmail.com
 - **LinkedIn**: [Link to your LinkedIn]
 - **GitHub**: [Link to your GitHub]
-- **Twitter**: [Link to your Twitter] (optional)
 
 ---
 
