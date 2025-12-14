@@ -3,7 +3,7 @@
 
 Welcome to my Cybersecurity Portfolio! I'm Waleed Suhwail, As an aspiring cybersecurity professional, I am passionate about protecting digital environments and preventing cyber threats. With a solid foundation in IT fundamentals and hands-on experience in network security, vulnerability assessment, and threat mitigation, I am eager to grow and contribute to the ever-evolving field of cybersecurity.
 
-I have honed my skills through practical coursework, personal projects, and industry-recognized certifications. My strengths lie in identifying security gaps, troubleshooting technical issues, and applying security best practices to safeguard systems against potential threats. I am particularly interested in areas such as penetration testing, incident response, and risk management, and am committed to continuous learning and staying updated on emerging security trends and technologies.
+I have honed my skills through practical coursework, personal projects, and industry recognized certifications. My strengths lie in identifying security gaps, troubleshooting technical issues, and applying security best practices to safeguard systems against potential threats. I am particularly interested in areas such as penetration testing, incident response, and risk management, and am committed to continuous learning and staying updated on emerging security trends and technologies.
 
 My goal is to contribute to a team that prioritizes proactive security measures and fosters a culture of cyber resilience, while continuing to develop my expertise in securing systems, networks, and applications.
 
