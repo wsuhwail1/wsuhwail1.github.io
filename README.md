@@ -21,7 +21,7 @@ My goal is to contribute to a team that prioritizes proactive security measures 
 
 ## About Me
 
-I'm currently a salesperson Porsche Dallas. My goals are to start a career in the world of cybersecurity that is focused on securing networks, identifying vulnerabilities, and mitigating risks. My current work in sales has equipped me with excellent communication skills, attention to detail, and analytical skills of which are all essential for working in cybersecurity. I’m particularly excited about the opportunity to continuously learn and adapt to new challenges, and I look forward to using my skills to make a meaningful contribution to the cybersecurity community. I’m constantly expanding my knowledge of new cybersecurity trends, emerging threats, and new defense technologies. I'm a very passionate learner who's always looking for ways to become better and expand my knowledge on
+I'm currently a salesperson at Porsche Dallas. My goals are to start a career in the world of cybersecurity that is focused on securing networks, identifying vulnerabilities, and mitigating risks. My current work in sales has equipped me with excellent communication skills, attention to detail, and analytical skills of which are all essential for working in cybersecurity. I’m particularly excited about the opportunity to continuously learn and adapt to new challenges, and I look forward to using my skills to make a meaningful contribution to the cybersecurity community. I’m constantly expanding my knowledge of new cybersecurity trends, emerging threats, and new defense technologies. I'm a very passionate learner who's always looking for ways to become better at what I do and expand my skill set. 
 
 - **Location**: Dallas, Texas
 - **LinkedIn**: [Link to your LinkedIn]
