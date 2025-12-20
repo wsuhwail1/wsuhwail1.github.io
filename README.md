@@ -87,7 +87,8 @@ Feel free to reach out to me for any inquiries, collaboration opportunities, or 
 
 - **Email**: Wsuhwail1@gmail.com
 - **LinkedIn**: [Link to your LinkedIn]
-- **GitHub**: [Link to your GitHub]
+- **GitHub**: wsuhwail1.github.io
+
 
 ---
 
