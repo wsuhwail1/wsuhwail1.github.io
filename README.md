@@ -85,7 +85,7 @@ I have earned the following certifications that validate my knowledge and expert
 
 Feel free to reach out to me for any inquiries, collaboration opportunities, or consultations.
 
-- **Email**: Wsuhwail1@gmail.com
+- **Email**: Wsuhwail@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/waleed-suhwail-52737839b/
 - **GitHub**: wsuhwail1.github.io
 
