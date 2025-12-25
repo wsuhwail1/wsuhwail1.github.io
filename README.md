@@ -24,7 +24,7 @@ My goal is to contribute to a team that prioritizes proactive security measures 
 I'm currently a salesperson at Porsche Dallas. My goals are to start a career in the world of cybersecurity that is focused on securing networks, identifying vulnerabilities, and mitigating risks. My current work in sales has equipped me with excellent communication skills, attention to detail, and analytical skills of which are all essential for working in cybersecurity. I’m particularly excited about the opportunity to continuously learn and adapt to new challenges, and I look forward to using my skills to make a meaningful contribution to the cybersecurity community. I’m constantly expanding my knowledge of new cybersecurity trends, emerging threats, and new defense technologies. I'm a very passionate learner who's always looking for ways to become better at what I do and expand my skill set. 
 
 - **Location**: Dallas, Texas
-- **LinkedIn**: [Link to your LinkedIn]
+- **LinkedIn**: https://www.linkedin.com/in/waleed-suhwail-52737839b/
 - **GitHub**: wsuhwail1.github.io
 
 
@@ -50,7 +50,7 @@ Here are some of the key skills and tools that I have mastered over my career in
 I have earned the following certifications that validate my knowledge and expertise in cybersecurity:
 
 - **Google: Foundations of Cybersecurity**
-- **Certified Ethical Hacker (CEH)**
+- **Google: Managing Security Risk**
 - **Certified Cloud Security Professional (CCSP)**
 - **CompTIA Security+**
 - **Certified Information Security Manager (CISM)**
@@ -86,7 +86,7 @@ I have earned the following certifications that validate my knowledge and expert
 Feel free to reach out to me for any inquiries, collaboration opportunities, or consultations.
 
 - **Email**: Wsuhwail1@gmail.com
-- **LinkedIn**: [Link to your LinkedIn]
+- **LinkedIn**: https://www.linkedin.com/in/waleed-suhwail-52737839b/
 - **GitHub**: wsuhwail1.github.io
 
 
