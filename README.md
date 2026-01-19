@@ -35,7 +35,7 @@ I'm currently a salesperson at Porsche Dallas. My goals are to start a career in
 Here are some of the key skills and tools that I have mastered over my career in cybersecurity:
 
 - **Managing File Permissions**: [Linux]
-- **Network Security**: [Wireshark, Nmap, Snort]
+- **Network Security**: [Wireshark]
 - **Incident Response & Forensics**: [TheHive, Autopsy, Volatility]
 - **Security Auditing**: [OpenVAS, Nessus]
 - **Encryption & Cryptography**: [GPG, OpenSSL]
