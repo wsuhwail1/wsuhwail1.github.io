@@ -64,8 +64,8 @@ I have earned the following certifications that validate my knowledge and expert
    - **Description**: Conducted a comprehensive internal security audit of a small but rapidly growing company’s network to identify critical security gaps, improve the organizations security posture, and asses compliance. Provided a detailed report with the scope and goals of the audit, as well as a risk assesment.
    - **Link to Report**: https://docs.google.com/document/d/1LTxeUBrsk1UeXjryX3rOvemafd7-mzabiZPWQs6-Vxs/edit?tab=t.0
 
-### 2. **Web Application Penetration Testing**
-   - **Tools Used**: Burp Suite, SQLmap, OWASP ZAP
+### 2. **Changing File Permissions in Linux**
+   - **Tools Used**: Google Labs / Linux
    - **Description**: Performed security testing on a web application to identify common vulnerabilities such as SQL injection, XSS, and CSRF. Proposed fixes for each vulnerability discovered.
    - **Link to Report**: [Insert Link]
 
