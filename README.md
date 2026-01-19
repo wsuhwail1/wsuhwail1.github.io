@@ -64,7 +64,7 @@ I have earned the following certifications that validate my knowledge and expert
    - **Description**: Conducted a comprehensive internal security audit of a small but rapidly growing company’s network to identify critical security gaps, improve the organizations security posture, and asses compliance. Provided a detailed report with the scope and goals of the audit, as well as a risk assesment.
    - **Link to Report**: https://docs.google.com/document/d/1LTxeUBrsk1UeXjryX3rOvemafd7-mzabiZPWQs6-Vxs/edit?tab=t.0
 
-### 2. **Changing File Permissions in Linux**
+### 2. **Managing File Permissions in Linux**
    - **Tools Used**: Google Labs / Linux
    - **Description**: The research team at an organization needs to update the file permissions for certain files and directories within the projects directory. The permissions do not currently reflect the level of authorization that should be given. Checking and updating these permissions will help keep their system secure.
    - **Link to Report**: https://docs.google.com/document/d/1IJJ2w63fAS_RGcg6RI0FP9kwsDNx_n7owqhBblTHMB0/edit?tab=t.0#heading=h.adnh333husy
